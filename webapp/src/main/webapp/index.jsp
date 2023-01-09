@@ -23,8 +23,6 @@ th {
 </head>
 <body>
 
-<h2>Left-align Headers</h2>
-
 <table style="width:100%">
   <tr>
     <th>Tools</th>
